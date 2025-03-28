@@ -55,13 +55,14 @@ print(f"Variance is : {var}")
 
 ![image](https://github.com/user-attachments/assets/5ab58f65-a0b7-49b3-864a-f900cddd2c03)
 
-![WhatsApp Image 2025-03-28 at 15 54 37_f6a3c68c](https://github.com/user-attachments/assets/3608257e-63cc-4dc6-86ec-5ce008522e5c)
+![WhatsApp Image 2025-03-28 at 12 01 18_dac57d42](https://github.com/user-attachments/assets/686cb9a6-3b3e-41d8-a177-0d6ddf9945c2)
 
-![WhatsApp Image 2025-03-28 at 15 57 57_31610384](https://github.com/user-attachments/assets/a8731b22-9084-491e-b168-6549766d8c69)
+![WhatsApp Image 2025-03-28 at 12 01 18_0df181d8](https://github.com/user-attachments/assets/aaded416-c406-46e0-8573-e06a3800f4db)
 
-![WhatsApp Image 2025-03-28 at 15 53 06_eb7e7e1d](https://github.com/user-attachments/assets/57d26373-f63f-41b8-818d-8d94b19dbb3a)
+![WhatsApp Image 2025-03-28 at 15 53 06_ca09adc1](https://github.com/user-attachments/assets/de1201df-1add-4ce0-a66c-c0a21157d6a2)
 
-![WhatsApp Image 2025-03-28 at 15 57 57_31610384](https://github.com/user-attachments/assets/a8731b22-9084-491e-b168-6549766d8c69)
+![WhatsApp Image 2025-03-28 at 12 01 19_6974423f](https://github.com/user-attachments/assets/590db1f9-a540-416e-af0b-fdd30ec9b746)
+
 
 
 ### RESULT:
