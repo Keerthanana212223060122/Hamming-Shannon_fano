@@ -63,6 +63,7 @@ print(f"Variance is : {var}")
 
 ![WhatsApp Image 2025-03-28 at 12 01 19_a7a9b8de](https://github.com/user-attachments/assets/a2cc24cb-fea5-4026-843b-5412b887e95a)
 
+
 ### RESULT:
 
 For the given probabilities 0.125,0.0625,0.25,0.0625,0.125,0.125,0.25
