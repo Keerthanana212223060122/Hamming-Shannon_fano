@@ -59,7 +59,7 @@ print(f"Variance is : {var}")
 
 ![WhatsApp Image 2025-03-28 at 12 01 18_0733d336](https://github.com/user-attachments/assets/887f30a4-14aa-4ad3-baab-b1a0aab7f522)
 
-![WhatsApp Image 2025-03-28 at 12 01 18_bccc8fbf](https://github.com/user-attachments/assets/ed1391ce-03cb-427d-8750-7781a3dd6574)
+![WhatsApp Image 2025-03-28 at 12 01 18_dff40659](https://github.com/user-attachments/assets/e7b6a710-3a09-4a20-827a-910d0b85385e)
 
 ![WhatsApp Image 2025-03-28 at 12 01 19_a7a9b8de](https://github.com/user-attachments/assets/a2cc24cb-fea5-4026-843b-5412b887e95a)
 
